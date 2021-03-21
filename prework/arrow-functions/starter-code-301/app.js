@@ -205,8 +205,8 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//
+// when we used this it invoked as for the one property i declare for it
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+// when we used this it invoked for all the property i declare so it will return for the first declare
 // 3. Explain why "this" is different when an arrow function is used.
-//
+// i explain it above but like i was say it will take the bast this is declare before
